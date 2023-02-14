@@ -11,7 +11,7 @@
 }
 .container{
     width:100%;
-    height:100vh;
+    height:80vh;
     position: absolute;
     background-image:radial-gradient(pink,rgb(236, 75, 137)) ;
     
@@ -26,11 +26,11 @@
     box-shadow: 0 0 10px 0 rgba(80, 7, 64, 0.63), 0 10px 25px 0 rgba(151, 5, 132, 0.527);;
     padding-left: 40px ;
     padding-right: 40px;
-    margin:28vh auto;
+    margin:25vh auto;
     padding-top: 10px;
     padding-bottom: 10px;
  
-    height:40%;
+    height:25%;
     border-radius: 30px;
 }
  h1{
@@ -64,7 +64,7 @@ nav a{
     border: 2px solid #f0e0e8;
     background: rgb(224, 94, 224);
     opacity: 80%;
-    line-height: 50px;
+    line-height: 30px;
 }
 
 
