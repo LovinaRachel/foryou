@@ -11,7 +11,7 @@
 }
 .container{
     width:100%;
-    height:80vh;
+    height:100vh;
     position: absolute;
     background-image:radial-gradient(pink,rgb(236, 75, 137)) ;
     
@@ -21,33 +21,33 @@
 .surprise{
     font-family: Poppins, sans-serif;
     background-color: rgb(252, 157, 173);
-    width: 50%;
+    width: 60%;
     
     box-shadow: 0 0 10px 0 rgba(80, 7, 64, 0.63), 0 10px 25px 0 rgba(151, 5, 132, 0.527);;
     padding-left: 40px ;
     padding-right: 40px;
     margin:25vh auto;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
  
     height:25%;
     border-radius: 30px;
 }
  h1{
-    font-weight: 750;
-    font-size: 50px;
-    line-height: 100px;
-    padding-top: 10px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height:400px;
+    padding-top: 7px;
     font-family: 'Fauna One', serif ;
     color: rgba(233, 67, 100, 0.699);
 }
 
  h3{
-    font-weight: 700;
-    line-height: 30px;
+    font-weight: 300;
+    line-height: 60px;
     font-style: oblique;
     font-family: 'Tangerine', serif;
-    font-size: 40px;
+    font-size: 10px;
     color: rgba(22, 6, 20, 0.788);
 
 }
@@ -59,17 +59,17 @@ nav a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Times New Roman', Times, serif;
     color: #fdf9fb;
     text-decoration: dotted;
-    padding: 7px 11px;
-    margin-right: 5px;
+    padding: 4px 7px;
+    margin-right: 3px;
     border: 2px solid #f0e0e8;
     background: rgb(224, 94, 224);
     opacity: 80%;
-    line-height: 30px;
+    line-height: 10px;
 }
 
 
 span{
-    line-height: 5px;
+    line-height: 3px;
     color: #0c0207;
     
 }
@@ -79,8 +79,8 @@ span{
     background-size: cover;
     left:1px;
     top:1px;
-    width:600px;
-    height:390px;
+    width:300px;
+    height:700px;
 
 }
 .bottom-border{
@@ -89,11 +89,11 @@ span{
     background-size:cover;
     right:1px;
     bottom:1px;
-    width:900px;
-    height:500px;
+    width:500px;
+    height:400px;
 }
 .heartballon img{
-    width: 50px;
+    width: 40px;
     margin-left: 6.5%;
     animation: heartballon 7s linear infinite;
 }
