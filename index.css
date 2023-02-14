@@ -21,33 +21,33 @@
 .surprise{
     font-family: Poppins, sans-serif;
     background-color: rgb(252, 157, 173);
-    width: 60%;
+    width: 90%;
     
     box-shadow: 0 0 10px 0 rgba(80, 7, 64, 0.63), 0 10px 25px 0 rgba(151, 5, 132, 0.527);;
-    padding-left: 40px ;
-    padding-right: 40px;
+    padding-left: 20px ;
+    padding-right: 20px;
     margin:25vh auto;
     padding-top: 5px;
     padding-bottom: 5px;
  
-    height:25%;
-    border-radius: 30px;
+    height:35%;
+    border-radius: 20px;
 }
  h1{
-    font-weight: 500;
-    font-size: 30px;
-    line-height:400px;
+    font-weight: 150;
+    font-size: 10px;
+    line-height:30px;
     padding-top: 7px;
     font-family: 'Fauna One', serif ;
     color: rgba(233, 67, 100, 0.699);
 }
 
  h3{
-    font-weight: 300;
-    line-height: 60px;
+    font-weight: 80;
+    line-height: 30px;
     font-style: oblique;
     font-family: 'Tangerine', serif;
-    font-size: 10px;
+    font-size: 5px;
     color: rgba(22, 6, 20, 0.788);
 
 }
@@ -79,8 +79,8 @@ span{
     background-size: cover;
     left:1px;
     top:1px;
-    width:300px;
-    height:700px;
+    width:50px;
+    height:300px;
 
 }
 .bottom-border{
@@ -89,8 +89,8 @@ span{
     background-size:cover;
     right:1px;
     bottom:1px;
-    width:500px;
-    height:400px;
+    width:100px;
+    height:60px;
 }
 .heartballon img{
     width: 40px;
